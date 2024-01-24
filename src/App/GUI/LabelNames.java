@@ -1,0 +1,9 @@
+package App.GUI;
+
+public enum LabelNames {
+    STRING_BOMBS,
+    STRING_UNOPENED_FIELDS,
+    NUMBER_UNOPENEDFIELDS,
+    STRING_TIMER,
+    NUMBER_TIMER
+}
